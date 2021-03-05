@@ -1,0 +1,22 @@
+Category,Data Type,Missing Data %
+incident_number,object,0.0
+year,object,0.160786065207688
+recovery_date,datetime64[ns],5.743635551585527
+ucr_category,object,0.008932559178205679
+firearm_category,object,13.55069227333631
+firearm_subcategory,object,13.827601607860657
+firearm_manufacturer,object,18.526127735596248
+firearm_model,object,46.52076820008932
+firearm_caliber,object,16.57882983474765
+address_geocode_type,object,27.798124162572577
+block_address,object,5.743635551585527
+street_address,object,27.798124162572577
+city,object,0.21438142027690787
+state,object,0.14292094685127665
+zipcode,object,2.0455560518088447
+longitude,float64,22.063421170165256
+latitude,float64,22.063421170165256
+person_recovered_from_race,object,18.21348816435909
+person_recovered_from_sex,object,17.856185797230907
+person_recovered_from_age,float64,18.937025457793652
+confidence,float64,22.063421170165256
